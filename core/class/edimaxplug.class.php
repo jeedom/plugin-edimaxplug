@@ -84,6 +84,7 @@ class edimaxplug extends eqLogic {
 		$cmd->setType('action');
 		$cmd->setSubType('other');
 		$cmd->setLogicalId('on');
+		$cmd->setDisplay("generic_type","ENERGY_ON");
 		$cmd->setIsVisible(1);
 		$cmd->setEqLogic_id($this->getId());
 		$cmd->save();
@@ -98,6 +99,7 @@ class edimaxplug extends eqLogic {
 		$cmd->setType('action');
 		$cmd->setSubType('other');
 		$cmd->setLogicalId('off');
+		$cmd->setDisplay("generic_type", "ENERGY_OFF");
 		$cmd->setIsVisible(1);
 		$cmd->setEqLogic_id($this->getId());
 		$cmd->save();
@@ -110,6 +112,7 @@ class edimaxplug extends eqLogic {
 		$cmd->setType('info');
 		$cmd->setSubType('binary');
 		$cmd->setLogicalId('state');
+		$cmd->setDisplay("generic_type", "ENERGY_STATE");
 		$cmd->setIsVisible(1);
 		$cmd->setEqLogic_id($this->getId());
 		$cmd->save();
@@ -123,6 +126,7 @@ class edimaxplug extends eqLogic {
 		$cmd->setType('info');
 		$cmd->setSubType('numeric');
 		$cmd->setLogicalId('power');
+		$cmd->setDisplay("generic_type", "POWER");
 		$cmd->setIsVisible(0);
 		$cmd->setEqLogic_id($this->getId());
 		$cmd->save();
