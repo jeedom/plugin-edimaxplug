@@ -1,0 +1,5 @@
+= EDIMAX PLUG
+
+Ce plugin permet de piloter les prises WIFI Edimax.
+
+include::configuration.asciidoc[]
