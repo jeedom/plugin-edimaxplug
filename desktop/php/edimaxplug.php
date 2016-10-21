@@ -101,14 +101,15 @@ sendVarToJS('eqType', 'edimaxplug');
 		                    </div>
 		                </div>
 		                <div class="form-group">
-					        <label class="col-sm-2 control-label"></label>
-					        <div class="col-sm-6">
-					          <input type="checkbox" class="eqLogicAttr bootstrapSwitch" data-label-text="{{Activer}}" data-l1key="isEnable" checked/>
-					          <input type="checkbox" class="eqLogicAttr bootstrapSwitch" data-label-text="{{Visible}}" data-l1key="isVisible" checked/>
-					        </div>
-				      </div>
-		                
-		                
+		                    <label class="col-md-2 control-label" >{{Activer}}</label>
+		                    <div class="col-md-1">
+		                        <input type="checkbox" class="eqLogicAttr" data-l1key="isEnable" size="16" checked/>
+		                    </div>
+		                    <label class="col-md-2 control-label" >{{Visible}}</label>
+		                    <div class="col-md-1">
+		                        <input type="checkbox" class="eqLogicAttr" data-l1key="isVisible" checked/>
+		                    </div>
+		                </div>
 		            </fieldset> 
 		        </form>
 			</div>
