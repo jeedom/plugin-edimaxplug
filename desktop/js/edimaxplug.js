@@ -55,9 +55,9 @@ function addCmdToTable(_cmd) {
     tr += '<td class="type" type="' + init(_cmd.type) + '">' + jeedom.cmd.availableType();
     tr += '<span class="subType" subType="' + init(_cmd.subType) + '"></span></td>';
     tr += '<td>';
-    tr += '<span><input type="checkbox" class="cmdAttr bootstrapSwitch" data-l1key="isHistorized" data-label-text="{{Historiser}}" data-size="mini" /></span> ';
-    tr += '<span><input type="checkbox" class="cmdAttr bootstrapSwitch" data-l1key="isVisible" data-label-text="{{Afficher}}" data-size="mini" checked/></span> ';
-    tr += '<span><input type="checkbox" class="cmdAttr bootstrapSwitch expertModeVisible" data-label-text="{{Inverser}}" data-l1key="display" data-l2key="invertBinary" data-size="mini"/></span> ';
+    tr += '<span><input type="checkbox" class="cmdAttr" data-l1key="isHistorized" data-label-text="{{Historiser}}" data-size="mini" />{{Historiser}}</span> ';
+    tr += '<span><input type="checkbox" class="cmdAttr" data-l1key="isVisible" data-label-text="{{Afficher}}" data-size="mini" checked/>{{Afficher}}</span> ';
+    tr += '<span><input type="checkbox" class="cmdAttr expertModeVisible" data-label-text="{{Inverser}}" data-l1key="display" data-l2key="invertBinary" data-size="mini"/>{{Inverser}}</span> ';
     tr += '</td>';
     tr += '<td>';
     if (is_numeric(_cmd.id)) {
