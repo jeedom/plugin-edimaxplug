@@ -1,8 +1,8 @@
-== Configuration du plugin
+== Plugin Konfiguration
 
 Après téléchargement du plugin, il vous suffit juste d'activer celui-ci.
 
-== Configuration des équipements
+== Geräte Konfiguration
 
 La synchronisation des équipements Edimax Plugs est accessible à partir du menu plugin : 
 Une fois que vous cliquez sur l'un d'eux, vous retrouvez ici toute la configuration de votre équipement : 
