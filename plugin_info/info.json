@@ -1,0 +1,12 @@
+{
+    "id" : "edimaxplug",
+    "name" : "Edimax Plug",
+    "licence" : "AGPL",
+    "author" : "Jeedom",
+    "require" : "2.3",
+    "installation" : "Aucune",
+    "hasDependency" : 0,
+    "hasOwnDeamon" : 0,
+    "category" : "automation protocol",
+    "version" : "1"
+}
