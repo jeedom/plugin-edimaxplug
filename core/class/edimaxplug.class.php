@@ -73,49 +73,53 @@ class edimaxplug extends eqLogic {
     }
 	
 	public function postSave() {
+		
+	$cmd = $this->getCmd(null, 'state');
+	if (!is_object($cmd)) {
+		$cmd = new edimaxplugCmd();
+	}
+	$cmd->setName(__('ETAT', __FILE__));
+	$cmd->setType('info');
+	$cmd->setSubType('binary');
+	$cmd->setLogicalId('state');
+	$cmd->setDisplay("generic_type", "ENERGY_STATE");
+	$cmd->setIsVisible(1);
+	$cmd->setEqLogic_id($this->getId());
+	$cmd->save();
+      	$value = $cmd->getId();
         	
         $cmd = $this->getCmd(null, 'on');
-		if (!is_object($cmd)) {
-			$cmd = new edimaxplugCmd();
-		}
-		$cmd->setName(__('ON', __FILE__));
-		$cmd->setConfiguration('type', 'power');
-		$cmd->setConfiguration('value', true);
-		$cmd->setType('action');
-		$cmd->setSubType('other');
-		$cmd->setLogicalId('on');
-		$cmd->setDisplay("generic_type","ENERGY_ON");
-		$cmd->setIsVisible(1);
-		$cmd->setEqLogic_id($this->getId());
-		$cmd->save();
+	if (!is_object($cmd)) {
+		$cmd = new edimaxplugCmd();
+	}
+	$cmd->setName(__('ON', __FILE__));
+	$cmd->setConfiguration('type', 'power');
+	$cmd->setConfiguration('value', true);
+	$cmd->setType('action');
+	$cmd->setSubType('other');
+	$cmd->setLogicalId('on');
+	$cmd->setDisplay("generic_type","ENERGY_ON");
+	$cmd->setIsVisible(1);
+	$cmd->setEqLogic_id($this->getId());
+	$cmd->setValue($value);
+	$cmd->save();
+
+	$cmd = $this->getCmd(null, 'off');
+	if (!is_object($cmd)) {
+		$cmd = new edimaxplugCmd();
+	}
+	$cmd->setName(__('OFF', __FILE__));
+	$cmd->setConfiguration('type', 'power');
+	$cmd->setConfiguration('value', false);
+	$cmd->setType('action');
+	$cmd->setSubType('other');
+	$cmd->setLogicalId('off');
+	$cmd->setDisplay("generic_type", "ENERGY_OFF");
+	$cmd->setIsVisible(1);
+	$cmd->setEqLogic_id($this->getId());
+	$cmd->setValue($value);
+	$cmd->save();
 		
-		$cmd = $this->getCmd(null, 'off');
-		if (!is_object($cmd)) {
-			$cmd = new edimaxplugCmd();
-		}
-		$cmd->setName(__('OFF', __FILE__));
-		$cmd->setConfiguration('type', 'power');
-		$cmd->setConfiguration('value', false);
-		$cmd->setType('action');
-		$cmd->setSubType('other');
-		$cmd->setLogicalId('off');
-		$cmd->setDisplay("generic_type", "ENERGY_OFF");
-		$cmd->setIsVisible(1);
-		$cmd->setEqLogic_id($this->getId());
-		$cmd->save();
-		
-		$cmd = $this->getCmd(null, 'state');
-		if (!is_object($cmd)) {
-			$cmd = new edimaxplugCmd();
-		}
-		$cmd->setName(__('ETAT', __FILE__));
-		$cmd->setType('info');
-		$cmd->setSubType('binary');
-		$cmd->setLogicalId('state');
-		$cmd->setDisplay("generic_type", "ENERGY_STATE");
-		$cmd->setIsVisible(1);
-		$cmd->setEqLogic_id($this->getId());
-		$cmd->save();
 		
 		/*
 		$cmd = $this->getCmd(null, 'power');
