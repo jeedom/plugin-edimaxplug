@@ -48,7 +48,7 @@ sendVarToJS('eqType', 'edimaxplug');
 					if (file_exists('plugins/edimaxplug/doc/images/' . $eqLogic->getConfiguration('type') . '.png')) {
 						echo '<img src="plugins/edimaxplug/doc/images/' . $eqLogic->getConfiguration('type') . '.png" height="105" width="95" />';
 					}else{
-						echo '<img src="plugins/edimaxplug/doc/images/edimaxplug_icon.png" height="105" width="95" />';	
+						echo '<img src="plugins/edimaxplug/plugin_info/edimaxplug_icon.png" height="105" width="95" />';	
 					}
                     echo "<br>";
                     echo '<span style="font-size : 1.1em;position:relative; top : 15px;word-break: break-all;white-space: pre-wrap;word-wrap: break-word;">' . $eqLogic->getHumanName(true, true) . '</span>';
