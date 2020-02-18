@@ -1,0 +1,47 @@
+{
+    "desktop\/js\/edimaxplug.js": {
+        "Historiser": "historizar",
+        "Afficher": "visualización",
+        "Inverser": "marcha atrás",
+        "Tester": "prueba"
+    },
+    "desktop\/php\/edimaxplug.php": {
+        "401 - Accès non autorisé": "401 - Acceso no autorizado",
+        "Rechercher": "Buscar",
+        "Gestion": "administración",
+        "Configuration": "configuración",
+        "Synchroniser": "Sincronizar",
+        "Mes edimaxplugs": "Mis edimaxplugs",
+        "Vous n'avez pas encore de edimaxplug, cliquez sur Synchroniser pour commencer": "Aún no tiene un edimaxplug, haga clic en Sincronizar para comenzar",
+        "Général": "general",
+        "Nom de l'équipement edimaxplug": "Nombre del equipo edimaxplug",
+        "Objet parent": "Objeto padre",
+        "Aucun": "no",
+        "Catégorie": "categoría",
+        "Activer": "Activar",
+        "Visible": "visible",
+        "Informations": "información",
+        "Adresse IP": "Dirección IP",
+        "Modèle": "modelo",
+        "Version": "versión",
+        "Adresse MAC": "Dirección MAC",
+        "Mac": "Mac",
+        " Ajouter une commande": "Agregar un pedido",
+        "Nom": "apellido",
+        "Type": "tipo",
+        "Options": "opciones",
+        "Supprimer": "remove",
+        "Sauvegarder": "Guardar"
+    },
+    "core\/ajax\/edimaxplug.ajax.php": {
+        "401 - Accès non autorisé": "401 - Acceso no autorizado",
+        "Aucune methode correspondante à : ": "Ningún método correspondiente a:"
+    },
+    "core\/class\/edimaxplug.class.php": {
+        "L\\' adresse IP ne peut etre vide": "IP address cannot be empty",
+        "ETAT": "STATE",
+        "ON": "WE",
+        "OFF": "OFF",
+        "CONSOMMATION": "CONSUMPTION"
+    }
+}
