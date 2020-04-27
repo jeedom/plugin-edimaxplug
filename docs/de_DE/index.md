@@ -1,37 +1,37 @@
-Ce plugin permet de piloter les prises WIFI Edimax.
+.
 
-Plugin-Konfiguration
+Plugin Konfiguration 
 =======================
 
-Après téléchargement du plugin, il vous suffit juste d’activer celui-ci.
+Nach dem Herunterladen des Plugins müssen Sie es nur noch aktivieren.
 
-Gerätekonfiguration
+Gerätekonfiguration 
 =============================
 
-La synchronisation des équipements Edimax Plugs est accessible à partir
-du menu plugin : Une fois que vous cliquez sur l’un d’eux, vous
-retrouvez ici toute la configuration de votre équipement :
 
--   **Nom de l’équipement** : nom de votre équipement Edimax sur le
-    dashboard,
+ : 
+ :
 
--   **Übergeordnete Objekt** zeigt das übergeordnete Objekt gehört
+-   **Name der Ausrüstung** : 
+    Armaturenbrett,
+
+-   **Übergeordnetes Objekt** : gibt das übergeordnete Objekt an, zu dem es gehört
     Ausrüstung,
 
--   **Aktivieren**: auf Ihre aktive Ausrüstung zu machen,
+-   **Aktivieren** : macht Ihre Ausrüstung aktiv,
 
--   Visible ** ** macht Ihr Gerät sichtbar auf dem Armaturenbrett,
+-   **Sichtbar** : macht Ihre Ausrüstung auf dem Armaturenbrett sichtbar,
 
--   **Catégorie** : catégorie de votre équipement Edimax
+-   **Kategorie** : 
 
-Wie die folgenden Informationen :
+ :
 
--   **Adresse IP** : Adresse du module,
+-   **IP-Adresse** : ,
 
--   **Model** : Modèle de la prise,
+-   **Modell** : ,
 
 -   **Version** : Version,
 
--   **Version** : Version du matériel
+-   **Version** : 
 
 

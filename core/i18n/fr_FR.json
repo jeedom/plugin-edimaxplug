@@ -1,11 +1,5 @@
 {
-    "desktop\/js\/edimaxplug.js": {
-        "Historiser": "Historiser",
-        "Afficher": "Afficher",
-        "Inverser": "Inverser",
-        "Tester": "Tester"
-    },
-    "desktop\/php\/edimaxplug.php": {
+    "plugins\/edimaxplug\/desktop\/php\/edimaxplug.php": {
         "401 - Accès non autorisé": "401 - Accès non autorisé",
         "Rechercher": "Rechercher",
         "Gestion": "Gestion",
@@ -33,11 +27,17 @@
         "Supprimer": "Supprimer",
         "Sauvegarder": "Sauvegarder"
     },
-    "core\/ajax\/edimaxplug.ajax.php": {
+    "plugins\/edimaxplug\/desktop\/js\/edimaxplug.js": {
+        "Historiser": "Historiser",
+        "Afficher": "Afficher",
+        "Inverser": "Inverser",
+        "Tester": "Tester"
+    },
+    "plugins\/edimaxplug\/core\/ajax\/edimaxplug.ajax.php": {
         "401 - Accès non autorisé": "401 - Accès non autorisé",
         "Aucune methode correspondante à : ": "Aucune methode correspondante à : "
     },
-    "core\/class\/edimaxplug.class.php": {
+    "plugins\/edimaxplug\/core\/class\/edimaxplug.class.php": {
         "L\\' adresse IP ne peut etre vide": "L\\' adresse IP ne peut etre vide",
         "ETAT": "ETAT",
         "ON": "ON",

@@ -1,0 +1,32 @@
+{
+    "changelog.md": null,
+    "index.md": {
+        "Ce plugin permet de piloter les prises WIFI Edimax": "",
+        "Configuration du plugin": "Plugin Konfiguration",
+        "Après téléchargement du plugin, il vous suffit juste d'activer celui-ci": "Nach dem Herunterladen des Plugins müssen Sie es nur noch aktivieren",
+        "Configuration des équipements": "Gerätekonfiguration",
+        "La synchronisation des équipements Edimax Plugs est accessible à partir": "",
+        "du menu plugin": "",
+        "Une fois que vous cliquez sur l'un d'eux, vous": "",
+        "retrouvez ici toute la configuration de votre équipement": "",
+        "Nom de l'équipement": "Name der Ausrüstung",
+        "nom de votre équipement Edimax sur le": "",
+        "dashboard": "Armaturenbrett",
+        "Objet parent": "Übergeordnetes Objekt",
+        "indique l'objet parent auquel appartient": "gibt das übergeordnete Objekt an, zu dem es gehört",
+        "l'équipement": "Ausrüstung",
+        "Activer": "Aktivieren",
+        "permet de rendre votre équipement actif": "macht Ihre Ausrüstung aktiv",
+        "Visible": "Sichtbar",
+        "rend votre équipement visible sur le dashboard": "macht Ihre Ausrüstung auf dem Armaturenbrett sichtbar",
+        "Catégorie": "Kategorie",
+        "catégorie de votre équipement Edimax": "",
+        "Ainsi que les informations suivantes": "",
+        "Adresse IP": "IP-Adresse",
+        "Adresse du module": "",
+        "Model": "Modell",
+        "Modèle de la prise": "",
+        "Version": "Version",
+        "Version du matériel": ""
+    }
+}
