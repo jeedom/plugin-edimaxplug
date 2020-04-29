@@ -1,4 +1,4 @@
-.
+Este complemento le permite controlar los enchufes WIFI Edimax.
 
 Configuración del plugin 
 =======================
@@ -8,30 +8,30 @@ Después de descargar el complemento, solo necesita activarlo.
 Configuración del equipo 
 =============================
 
+Se puede acceder a la sincronización del equipo Edimax Plugs desde
+desde el menú de complementos : Una vez que hace clic en uno de ellos, usted
+encuentre aquí toda la configuración de su equipo :
 
- : 
- :
-
--   **Nombre del equipo** : 
+-   **Nombre del equipo** : nombre de su equipo Edimax en el
     Salpicadero,
 
 -   **Objeto padre** : indica el objeto padre al que pertenece
     equipo,
 
--   **Activar** : activa su equipo,
+-   **Activer** : activa su equipo,
 
 -   **Visible** : hace que su equipo sea visible en el tablero,
 
--   **Categoría** : 
+-   **Categoría** : categoría de su equipo Edimax
 
- :
+Así como la siguiente información :
 
--   **Dirección IP** : ,
+-   **Dirección IP** : Dirección del módulo,
 
--   **Modelo** : ,
+-   **Model** : Modeloo de enchufe,
 
--   **Versión** : Versión,
+-   **Version** : Versión,
 
--   **Versión** : 
+-   **Version** : Versión de hardware
 
 
