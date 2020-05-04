@@ -13,14 +13,14 @@ from the plugin menu : Once you click on one of them, you
 find here all the configuration of your equipment :
 
 -   **Name of equipment** : name of your Edimax equipment on the
-    Dashboard,
+    dashboard,
 
 -   **Parent object** : indicates the parent object to which belongs
     equipment,
 
 -   **Activer** : makes your equipment active,
 
--   **Visible** : makes your equipment visible on the Dashboard,
+-   **Visible** : makes your equipment visible on the dashboard,
 
 -   **Category** : category of your Edimax equipment
 

@@ -13,7 +13,7 @@ desde el menú de complementos : Una vez que hace clic en uno de ellos, usted
 encuentre aquí toda la configuración de su equipo :
 
 -   **Nombre del equipo** : nombre de su equipo Edimax en el
-    Salpicadero,
+    dashboard,
 
 -   **Objeto padre** : indica el objeto padre al que pertenece
     equipo,
@@ -28,9 +28,9 @@ Así como la siguiente información :
 
 -   **Dirección IP** : Dirección del módulo,
 
--   **Model** : Modeloo de enchufe,
+-   **Model** : Modelo de enchufe,
 
--   **Version** : Versión,
+-   **Version** : Version,
 
 -   **Version** : Versión de hardware
 

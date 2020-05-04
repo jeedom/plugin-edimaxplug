@@ -13,7 +13,7 @@ aus dem Plugin-Menü : Sobald Sie auf einen von ihnen klicken, werden Sie
 Hier finden Sie die gesamte Konfiguration Ihrer Geräte :
 
 -   **Name der Ausrüstung** : Name Ihrer Edimax-Ausrüstung auf der
-    Armaturenbrett,
+    dashboard,
 
 -   **Übergeordnetes Objekt** : gibt das übergeordnete Objekt an, zu dem es gehört
     Ausrüstung,
