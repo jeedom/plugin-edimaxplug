@@ -13,7 +13,7 @@ from the plugin menu : Once you click on one of them, you
 find here all the configuration of your equipment :
 
 -   **Name of equipment** : name of your Edimax equipment on the
-    Dashboard,
+    dashboard,
 
 -   **Parent object** : indicates the parent object to which belongs
     equipment,

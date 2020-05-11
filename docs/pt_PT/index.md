@@ -13,7 +13,7 @@ no menu do plug-in : Depois de clicar em um deles, você
 encontre aqui toda a configuração do seu equipamento :
 
 -   **Nome de equipamentos** : nome do seu equipamento Edimax no
-    Painel de instrumentos,
+    dashboard,
 
 -   **Objeto pai** : indica o objeto pai ao qual pertence
     o equipamento,
@@ -30,7 +30,7 @@ Bem como as seguintes informações :
 
 -   **Modelo** : Modelo de ficha,
 
--   **Versão** : Versão,
+-   **Versão** : Version,
 
 -   **Versão** : Versão de hardware
 
