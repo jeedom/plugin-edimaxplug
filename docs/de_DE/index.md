@@ -13,14 +13,14 @@ aus dem Plugin-Menü : Sobald Sie auf einen von ihnen klicken, werden Sie
 Hier finden Sie die gesamte Konfiguration Ihrer Geräte :
 
 -   **Name der Ausrüstung** : Name Ihrer Edimax-Ausrüstung auf der
-    dashboard,
+    Armaturenbrett,
 
 -   **Übergeordnetes Objekt** : gibt das übergeordnete Objekt an, zu dem es gehört
     Ausrüstung,
 
--   **Activer** : macht Ihre Ausrüstung aktiv,
+-   **Aktivieren** : macht Ihre Ausrüstung aktiv,
 
--   **Visible** : macht Ihre Ausrüstung auf dem Armaturenbrett sichtbar,
+-   **Sichtbar** : macht Ihre Ausrüstung auf dem Armaturenbrett sichtbar,
 
 -   **Kategorie** : Kategorie Ihrer Edimax-Ausrüstung
 
@@ -28,7 +28,7 @@ Sowie die folgenden Informationen :
 
 -   **IP-Adresse** : Moduladresse,
 
--   **Model** : Steckermodell,
+-   **Modell** : Steckermodell,
 
 -   **Version** : Version,
 

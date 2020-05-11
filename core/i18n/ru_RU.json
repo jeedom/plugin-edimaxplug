@@ -15,7 +15,7 @@
         "Activer": "активировать",
         "Visible": "Видимый",
         "Informations": "Информация",
-        "Adresse IP": "IP Адрес ",
+        "Adresse IP": "IP Адрес",
         "Modèle": "Модель",
         "Version": "Версия",
         "Adresse MAC": "MAC-адрес",
@@ -35,7 +35,7 @@
     },
     "plugins\/edimaxplug\/core\/ajax\/edimaxplug.ajax.php": {
         "401 - Accès non autorisé": "401 - Несанкционированный доступ",
-        "Aucune methode correspondante à : ": "Aucune methode correspondante à : "
+        "Aucune methode correspondante à : ": "Aucune methode correspondante à :"
     },
     "plugins\/edimaxplug\/core\/class\/edimaxplug.class.php": {
         "L\\' adresse IP ne peut etre vide": "",

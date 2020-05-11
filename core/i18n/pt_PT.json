@@ -35,7 +35,7 @@
     },
     "plugins\/edimaxplug\/core\/ajax\/edimaxplug.ajax.php": {
         "401 - Accès non autorisé": "401 - Acesso não autorizado",
-        "Aucune methode correspondante à : ": "Aucune methode correspondante à : "
+        "Aucune methode correspondante à : ": "Aucune methode correspondante à :"
     },
     "plugins\/edimaxplug\/core\/class\/edimaxplug.class.php": {
         "L\\' adresse IP ne peut etre vide": "O endereço IP não pode estar vazio",
