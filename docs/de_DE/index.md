@@ -1,37 +1,26 @@
+# Edimax Plugin
+
 Mit diesem Plugin können Sie die Edimax WIFI-Buchsen steuern.
 
-Plugin Konfiguration 
-=======================
+# Plugin Konfiguration 
 
 Nach dem Herunterladen des Plugins müssen Sie es nur noch aktivieren.
 
-Gerätekonfiguration 
-=============================
+# Gerätekonfiguration 
 
-Auf die Synchronisation von Edimax Plugs-Geräten kann von zugegriffen werden
-aus dem Plugin-Menü : Sobald Sie auf einen von ihnen klicken, werden Sie
-Hier finden Sie die gesamte Konfiguration Ihrer Geräte :
+Die Synchronisierung von Edimax Plugs-Geräten ist über das Plugin-Menü möglich : Sobald Sie auf eine davon klicken, finden Sie hier die gesamte Konfiguration Ihrer Geräte :
 
--   **Name der Ausrüstung** : Name Ihrer Edimax-Ausrüstung auf der
-    dashboard,
-
--   **Übergeordnetes Objekt** : gibt das übergeordnete Objekt an, zu dem es gehört
-    Ausrüstung,
-
+-   **Name der Ausrüstung** : Name Ihrer Edimax-Ausrüstung auf dem Armaturenbrett,
+-   **Übergeordnetes Objekt** : Gibt das übergeordnete Objekt an, zu dem das Gerät gehört,
 -   **Aktivieren** : macht Ihre Ausrüstung aktiv,
-
 -   **Sichtbar** : macht Ihre Ausrüstung auf dem Armaturenbrett sichtbar,
-
 -   **Kategorie** : Kategorie Ihrer Edimax-Ausrüstung
 
 Sowie die folgenden Informationen :
 
 -   **IP-Adresse** : Moduladresse,
-
 -   **Modell** : Steckermodell,
-
 -   **Version** : Version,
-
 -   **Version** : Hardwareversion
 
 
