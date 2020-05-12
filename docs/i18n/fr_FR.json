@@ -1,0 +1,33 @@
+{
+    "changelog.md": {
+        "Changelog Edimax Plug": "Changelog Edimax Plug",
+        "IMPORTANT": "IMPORTANT",
+        "Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte": "Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte"
+    },
+    "index.md": {
+        "Plugin Edimax": "Plugin Edimax",
+        "Ce plugin permet de piloter les prises WIFI Edimax": "Ce plugin permet de piloter les prises WIFI Edimax",
+        "Configuration du plugin": "Configuration du plugin",
+        "Après téléchargement du plugin, il vous suffit juste d'activer celui-ci": "Après téléchargement du plugin, il vous suffit juste d'activer celui-ci",
+        "Configuration des équipements": "Configuration des équipements",
+        "La synchronisation des équipements Edimax Plugs est accessible à partir du menu plugin": "La synchronisation des équipements Edimax Plugs est accessible à partir du menu plugin",
+        "Une fois que vous cliquez sur l'un d'eux, vous retrouvez ici toute la configuration de votre équipement": "Une fois que vous cliquez sur l'un d'eux, vous retrouvez ici toute la configuration de votre équipement",
+        "Nom de l'équipement": "Nom de l'équipement",
+        "nom de votre équipement Edimax sur le dashboard": "nom de votre équipement Edimax sur le dashboard",
+        "Objet parent": "Objet parent",
+        "indique l'objet parent auquel appartient l'équipement": "indique l'objet parent auquel appartient l'équipement",
+        "Activer": "Activer",
+        "permet de rendre votre équipement actif": "permet de rendre votre équipement actif",
+        "Visible": "Visible",
+        "rend votre équipement visible sur le dashboard": "rend votre équipement visible sur le dashboard",
+        "Catégorie": "Catégorie",
+        "catégorie de votre équipement Edimax": "catégorie de votre équipement Edimax",
+        "Ainsi que les informations suivantes": "Ainsi que les informations suivantes",
+        "Adresse IP": "Adresse IP",
+        "Adresse du module": "Adresse du module",
+        "Model": "Model",
+        "Modèle de la prise": "Modèle de la prise",
+        "Version": "Version",
+        "Version du matériel": "Version du matériel"
+    }
+}

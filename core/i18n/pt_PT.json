@@ -1,0 +1,47 @@
+{
+    "plugins\/edimaxplug\/desktop\/php\/edimaxplug.php": {
+        "401 - Accès non autorisé": "401 - Acesso não autorizado",
+        "Rechercher": "Pesquisa",
+        "Gestion": "Gestão",
+        "Configuration": "Configuração",
+        "Synchroniser": "Sincronizar",
+        "Mes edimaxplugs": "My edimaxplugs",
+        "Vous n'avez pas encore de edimaxplug, cliquez sur Synchroniser pour commencer": "Você ainda não possui um edimaxplug, clique em Sincronizar para iniciar",
+        "Général": "Geral",
+        "Nom de l'équipement edimaxplug": "Nome do equipamento edimaxplug",
+        "Objet parent": "Objeto pai",
+        "Aucun": "Nemhum",
+        "Catégorie": "Categoria",
+        "Activer": "Ativar",
+        "Visible": "Visivél",
+        "Informations": "Informação",
+        "Adresse IP": "Endereço IP",
+        "Modèle": "Modelo",
+        "Version": "Versão",
+        "Adresse MAC": "Mac Address",
+        "Mac": "MAC",
+        " Ajouter une commande": "Adicionar um pedido",
+        "Nom": "Nome",
+        "Type": "Tipo",
+        "Options": "Opções",
+        "Supprimer": "Remover",
+        "Sauvegarder": "Salvar"
+    },
+    "plugins\/edimaxplug\/desktop\/js\/edimaxplug.js": {
+        "Historiser": "Historicizar",
+        "Afficher": "Display",
+        "Inverser": "Inverter",
+        "Tester": "Teste"
+    },
+    "plugins\/edimaxplug\/core\/ajax\/edimaxplug.ajax.php": {
+        "401 - Accès non autorisé": "401 - Acesso não autorizado",
+        "Aucune methode correspondante à : ": "Aucune methode correspondante à :"
+    },
+    "plugins\/edimaxplug\/core\/class\/edimaxplug.class.php": {
+        "L\\' adresse IP ne peut etre vide": "O endereço IP não pode estar vazio",
+        "ETAT": "Estado",
+        "ON": "Nós",
+        "OFF": "Fora",
+        "CONSOMMATION": "CONSUMO"
+    }
+}
