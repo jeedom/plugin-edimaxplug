@@ -11,6 +11,25 @@
     "version": "1",
     "changelog": "https:\/\/doc.jeedom.com\/#language#\/plugins\/automation protocol\/edimaxplug\/changelog",
     "documentation": "https:\/\/doc.jeedom.com\/#language#\/plugins\/automation protocol\/edimaxplug\/",
-    "language" : ["fr_FR","en_US","de_DE","sp_SP"],
-"compatibility" : ["miniplus","smart","rpi","docker","diy","mobile","v4"]
+    "language": [
+        "fr_FR",
+        "en_US",
+        "es_ES",
+        "de_DE",
+        "ru_RU",
+        "id_ID",
+        "it_IT",
+        "ja_JP",
+        "pt_PT",
+        "tr"
+    ],
+    "compatibility": [
+        "miniplus",
+        "smart",
+        "rpi",
+        "docker",
+        "diy",
+        "mobile",
+        "v4"
+    ]
 }
